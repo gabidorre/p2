@@ -4,7 +4,7 @@ Este proyecto es una réplica simple del popular sitio web **Pinterest**, creado
 
 ---
 
-## 📖 Descripción del Proyecto
+## Descripción del Proyecto
 
 **Pinterest** es una plataforma en línea donde los usuarios pueden descubrir, guardar y compartir imágenes, videos y otros contenidos multimedia que les interesan. Los usuarios pueden crear tableros temáticos, guardar "pins" (imágenes) y compartirlos con sus seguidores.
 
@@ -12,7 +12,7 @@ Este proyecto emula una versión básica de Pinterest y permite a los usuarios i
 
 ---
 
-## 🏠 Página Principal
+## Página Principal
 
 La **página principal** de este proyecto muestra una serie de imágenes basadas en los intereses de los usuarios. Los usuarios pueden hacer clic en un botón para guardar las imágenes en sus **pines privados**. Además, la parte superior de la página contiene una barra de navegación con varios iconos:
 
@@ -27,7 +27,7 @@ La **página principal** de este proyecto muestra una serie de imágenes basadas
 
 ---
 
-## 🖥️ Páginas Interconectadas
+## Páginas Interconectadas
 
 ### 1. **Página de Inicio de Sesión**
 
@@ -47,7 +47,7 @@ La **página principal** de este proyecto muestra una serie de imágenes basadas
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **HTML**: Para la estructura básica de la página web.
 - **CSS**: Para el diseño y el estilo visual de la página.
@@ -55,17 +55,9 @@ La **página principal** de este proyecto muestra una serie de imágenes basadas
 
 ---
 
-## 🚀 Funcionalidades Clave
+## Funcionalidades Clave
 
 - **Guardado de Pines**: Los usuarios pueden guardar imágenes en sus *pines* privados.
 - **Creación de Pines**: Los usuarios pueden subir imágenes, añadir títulos y descripciones a sus *pines*.
 - **Gestión de Pines Guardados**: Los usuarios pueden eliminar los *pines* que ya no desean.
 - **Navegación entre Páginas**: Los usuarios pueden navegar fácilmente entre la página principal, la página de creación de pines y la página de **pines** guardados.
-
----
-
-## 📥 Instrucciones para Ejecutar el Proyecto
-
-1. Clona este repositorio en tu máquina local usando el siguiente comando:
-   ```bash
-   git clone https://github.com/tu_usuario/pinterest-clone.git
